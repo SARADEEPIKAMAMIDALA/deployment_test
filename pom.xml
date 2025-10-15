@@ -85,7 +85,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-<packaging>jar</packaging>
+<packaging>war</packaging>
 	<build>
 	<finalName>hospital</finalName>
 		<plugins>
